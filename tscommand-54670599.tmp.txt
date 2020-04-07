@@ -1,0 +1,1 @@
+"/home/star/Documents/Funxn-API/src/app.ts" "/home/star/Documents/Funxn-API/src/.baseDir.ts" --sourcemap --removeComments --target ES5 --outDir bin/

@@ -1,0 +1,37 @@
+{
+  "name": "fullfunxn-server",
+  "version": "0.1.0",
+  "description": "Full Funxn API Server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node bin/app.js",
+    "build": "grunt",
+    "preinstall": "echo 'Installing Stack'",
+    "postinstall": "typings install"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "bookshelf": "^0.10.0",
+    "bookshelf-page": "^0.3.2",
+    "cors": "^2.8.1",
+    "dotenv": "^2.0.0",
+    "express": "^4.14.0",
+    "grunt": "^1.0.1",
+    "grunt-cli": "^1.2.0",
+    "grunt-ts": "^5.5.1",
+    "guid": "0.0.12",
+    "jsonwebtoken": "^7.2.1",
+    "knex": "^0.11.7",
+    "lodash": "^4.13.1",
+    "mysql": "^2.11.1",
+    "node-uuid": "^1.4.7",
+    "passport": "^0.3.2",
+    "passport-jwt": "^2.2.1",
+    "sqlite3": "^3.1.4",
+    "typescript": "^2.0.3",
+    "typings": "^1.3.1"
+  }
+}

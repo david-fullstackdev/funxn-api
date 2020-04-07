@@ -1,0 +1,21 @@
+{
+  "name": "fullfunxn-server",
+  "dependencies": {
+    "lodash": "registry:npm/lodash#4.0.0+20160701205107",
+    "node-uuid": "registry:npm/node-uuid#1.4.7+20160503013124"
+  },
+  "globalDependencies": {
+    "bluebird": "registry:dt/bluebird#2.0.0+20160701023356",
+    "body-parser": "registry:dt/body-parser#0.0.0+20160619023215",
+    "bookshelf": "registry:dt/bookshelf#0.8.2+20160514174357",
+    "cors": "registry:dt/cors#0.0.0+20160708202709",
+    "create-error": "registry:dt/create-error#0.3.1+20160316155526",
+    "express": "registry:dt/express#4.0.0+20160708185218",
+    "express-serve-static-core": "registry:dt/express-serve-static-core#4.0.0+20160711183608",
+    "knex": "registry:dt/knex#0.0.0+20160705134223",
+    "mime": "registry:dt/mime#0.0.0+20160316155526",
+    "node": "registry:dt/node#6.0.0+20160709114037",
+    "serve-static": "registry:dt/serve-static#0.0.0+20160606155157",
+    "typescript": "registry:dt/typescript#0.4.0+20160317120654"
+  }
+}
